@@ -1,0 +1,65 @@
+header {
+	background: #B90204;
+}
+
+footer {
+	margin-top: 1em;
+	width: 100%;
+	bottom: 0;
+	position: relative;
+	text-align: center;
+	color: #fff;
+}
+
+body {
+	background: #1a181b;
+}
+
+.text {
+	color: #fff;
+}
+
+footer, .navbar-custom {
+	font-size: large;
+	background: #B90204 !important;
+}
+
+footer a, footer, a:hover {
+	color: #fff;
+}
+
+.gallery img {
+	border: 2px solid #ddd;
+	border-radius: 4px;
+}
+
+.btn-primary, .btn-primary:active, .btn-primary:visited, .btn-primary:focus {
+	background: #B90204;
+	border-color: #7E0202;
+	box-shadow: none;
+}
+
+ .btn-primary:hover {
+	 background: #7E0202;
+	 border-color: #B90204;
+ }
+
+.modal-dialog {
+      max-width: 800px;
+      margin: 30px auto;
+  }
+
+.modal-body {
+  position:relative;
+  padding:0px;
+}
+.close {
+  position:absolute;
+  right:-30px;
+  top:0;
+  z-index:999;
+  font-size:2rem;
+  font-weight: normal;
+  color:#fff;
+  opacity:1;
+}
