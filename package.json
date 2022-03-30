@@ -1,0 +1,23 @@
+{
+  "name": "weatethemoffthefloor.co.uk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinek/weatethemoffthefloor.co.uk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinek/weatethemoffthefloor.co.uk/issues"
+  },
+  "homepage": "https://github.com/edwinek/weatethemoffthefloor.co.uk#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
